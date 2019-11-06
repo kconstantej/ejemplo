@@ -1,0 +1,10 @@
+rtft * 1 = NaN
+rtft * 2 = NaN
+rtft * 3 = NaN
+rtft * 4 = NaN
+rtft * 5 = NaN
+rtft * 6 = NaN
+rtft * 7 = NaN
+rtft * 8 = NaN
+rtft * 9 = NaN
+rtft * 10 = NaN
